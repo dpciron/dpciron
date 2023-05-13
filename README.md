@@ -1,7 +1,11 @@
 ### Olá, Eu sou Ronaldo Maciel 👋
-- 🔭 Trabalho na DOCTOR PC INFORMÁTICA
+- 🔭 DOCTOR PC INFORMÁTICA
 - 🌱 Desenvolvendor
 
-![Net](https://img.shields.io/badge/-Net-000?&logo=Net)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+<img src="https://img.shields.io/static/v1?label=.NET&message=Developer&color=blue&style=for-the-badge&logo=MICROSOFT"/>
+
+### Linguagens
+![.Net](https://img.shields.io/badge/-.Net-000?&logo=Net)
+![asp](https://img.shields.io/badge/-asp-000?&logo=asp)
+
 
