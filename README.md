@@ -1,4 +1,4 @@
-### Olá, Eu sou o Ronaldo Maciel 👋
+### Olá, Eu sou Ronaldo Maciel 👋
 - 🔭 Trabalho na DOCTOR PC INFORMÁTICA
 - 🌱 Desenvolvendor
 
