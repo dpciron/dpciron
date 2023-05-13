@@ -7,5 +7,5 @@
 ### Linguagens
 ![.Net](https://img.shields.io/badge/-.Net-000?&logo=Net)
 ![asp](https://img.shields.io/badge/-asp-000?&logo=asp)
-
+![sql](https://img.shields.io/badge/-sql-000?&logo=sql)
 
