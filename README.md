@@ -14,3 +14,4 @@
 ![mysql](https://img.shields.io/badge/-mysql-000?&logo=mysql)
 ![sqlserver](https://img.shields.io/badge/-sqlserver-000?&logo=sqlserver)
 ![oracle](https://img.shields.io/badge/-oracle-000?&logo=oracle)
+![visualbasic](https://img.shields.io/badge/-visualbasic-000?&logo=visualbasic)
